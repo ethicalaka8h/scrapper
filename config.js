@@ -1,8 +1,8 @@
 // config.js
 module.exports = {
-  BOT_TOKEN: "7579550318:AAGmZYCs6Idp4x2QdRM9I7C6u84UmShTpQk", // e.g. 123456:ABC-xxxxxx
-  CHANNEL_ID: -1002301426709,    // e.g. -100123456789
-  ADMIN_ID: 7381981708,          // your Telegram user ID
+  BOT_TOKEN: "", // e.g. 123456:ABC-xxxxxx
+  CHANNEL_ID: "",    // e.g. -100123456789
+  ADMIN_ID: "",          // your Telegram user ID
 
   // Filenames for data
   STATS_FILE: "stats.json",      // daily stats
